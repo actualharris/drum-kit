@@ -11,7 +11,7 @@ body {
 
 .container{
   position: relative;
-  height: 100vh;
+  height: 100%;
 }
 
 .everything{
@@ -112,5 +112,9 @@ footer {
 
   .container{
     height: 100vh;
-  } 
+  }
+  .everything{
+    position:absolute;
+    top:500px;
+  }
 }
