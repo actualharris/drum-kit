@@ -116,7 +116,7 @@ footer {
    
   .bg-image{
     height: 100vh;
-    width: 100vh;
+    /* width: 100vh; */
   }
    .everything{
     position:absolute;
