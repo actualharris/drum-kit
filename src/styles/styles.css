@@ -124,6 +124,15 @@ footer {
     top:20%;
   } 
 
+  h1 {
+    font-size: 7rem;
+  }
+  
+  #instruction {
+    font-size: 2rem;
+    padding: 0 50px 0 50px;
+  }
+
   .set{
     margin-top: 400px !important;
   }
