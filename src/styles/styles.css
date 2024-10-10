@@ -72,7 +72,7 @@ footer {
 }
 
 .set {
-  margin: 200px auto;
+  margin: 10% auto;
 }
 
 /* .game-over {
@@ -118,10 +118,12 @@ footer {
     height: 100vh;
     width: 100vh;
   }
-  .everything{
+   .everything{
     position:absolute;
-    top:500px;
-  }
+    /* margin-top:10px; */
+    top:20%;
+  } 
+
   .set{
     margin-top: 400px !important;
   }
